@@ -1,4 +1,4 @@
-package databaserelationships.onetomany;
+package databaserelationships.bionetomany;
 
 import jakarta.persistence.*;
 

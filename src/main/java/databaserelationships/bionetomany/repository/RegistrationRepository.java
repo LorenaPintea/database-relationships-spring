@@ -1,6 +1,6 @@
-package databaserelationships.onetomany.repository;
+package databaserelationships.bionetomany.repository;
 
-import databaserelationships.onetomany.Registration;
+import databaserelationships.bionetomany.Registration;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
